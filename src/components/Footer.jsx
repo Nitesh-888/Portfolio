@@ -73,7 +73,7 @@ function Footer() {
               </svg>
             </a>
             <a 
-              href="https://www.linkedin.com/in/nitesh-gupta-888" 
+              href="https://www.linkedin.com/in/nitesh--gupta" 
               target="_blank" 
               rel="noopener noreferrer"
               className="footer-social-link"

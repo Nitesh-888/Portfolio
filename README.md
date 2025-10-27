@@ -89,7 +89,7 @@ Portfolio/
 
 - Email: niteshgupta98994@gmail.com
 - GitHub: [Nitesh-888](https://github.com/Nitesh-888)
-- LinkedIn: [nitesh-gupta-888](https://www.linkedin.com/in/nitesh-gupta-888)
+- LinkedIn: [nitesh--gupta](https://www.linkedin.com/in/nitesh--gupta)
 
 ## License
 

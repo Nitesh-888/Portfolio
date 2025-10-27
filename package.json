@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Portfolio website for Nitesh Gupta",
+  "description": "A modern, responsive portfolio website showcasing Nitesh Gupta's full stack development skills, projects, and professional experience. Built with React and Vite.",
   "type": "module",
   "scripts": {
     "dev": "vite",
